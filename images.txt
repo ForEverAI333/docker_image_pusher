@@ -2,3 +2,4 @@ zlmediakit/zlmediakit:master
 mcr.microsoft.com/dotnet/sdk:8.0
 nginx:latest
 mcr.microsoft.com/dotnet/sdk:8.0-bookworm-slim
+node:18-alpine
