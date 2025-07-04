@@ -5,3 +5,4 @@ mcr.microsoft.com/dotnet/sdk:8.0-bookworm-slim
 node:18-alpine
 gitea/gitea:nightly
 gitea/act_runner:latest
+oceanbase/oceanbase-ce
